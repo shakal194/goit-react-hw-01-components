@@ -15,6 +15,7 @@ td {
   font-weight: 500;
   border-top: 1px solid #e8edff;
   padding: 10px 15px;
+  border: 1px solid black;
 }
 tr:nth-child(2n) {
   background: #b5c4fa;
